@@ -1,3 +1,1 @@
-# Esame_Algoritmi_e_StruttureDati
-
-## Esame ASD: 
+# Esame_Algoritmi_e_StruttureDati 
